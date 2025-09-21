@@ -5,7 +5,7 @@
          stroke: #d00d; 
          stroke-linejoin: round;
          stroke-linecap: round;
-         animation: color_change 12s infinite alternate;
+         animation: color_change 12s infinite alternate; 
         }
         @keyframes color_change {
          0% { stroke: #d00d; fill: #d00d;  }
