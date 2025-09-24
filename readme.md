@@ -3,7 +3,7 @@
     <img src="networks-evolution-2.svg">
   </a>
 </div>
-<div>
+<div align="center">
   <a href="https://github.com/nanotheatre/Schemes">
     <img src="Schemes.svg" width="50%">
   </a>
