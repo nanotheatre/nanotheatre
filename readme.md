@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/nanotheatre/Schemes">
-    <img src="Schemes.svg" width="50%">
+    <img src="Schemes-2.svg" width="50%">
   </a>
 </div>
 
