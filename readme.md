@@ -7,7 +7,7 @@
   <a href="https://github.com/nanotheatre/Schemes">
     <img src="Schemes-3.svg" width="45%">
   </a>
-  <a href="https://github.com/nanotheatre/VectorScape">
+  <a href="https://github.com/nanotheatre/VectorScapes">
     <img src="VectorScape-1.svg" width="45%">
   </a>
 </div>
