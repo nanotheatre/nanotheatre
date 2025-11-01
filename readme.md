@@ -8,7 +8,7 @@
     <img src="Schemes-4.svg" width="45%">
   </a>
   <a href="https://github.com/nanotheatre/VectorScapes">
-    <img src="VectorScape-3.svg" width="45%">
+    <img src="VectorScape-4.svg" width="45%">
   </a>
 </div>
 
