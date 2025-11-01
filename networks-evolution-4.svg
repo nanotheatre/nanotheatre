@@ -1,7 +1,7 @@
 <svg
-   width="443.06mm"
-   height="109.36mm"
-   viewBox="0 0 443.06 109.36"
+   width="444mm"
+   height="110mm"
+   viewBox="0 0 444 110"
    xmlns="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
@@ -39,7 +39,7 @@
      y="0"
      width="100%"
      height="100%"
-     fill="#fff" />
+     fill="#ff0" />
   <g
      id="r-1"
      transform="translate(0,0.92340031)">
