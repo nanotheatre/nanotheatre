@@ -2,11 +2,13 @@
 <style>
 
 image {
-    animation: fadeBottom 22s ease-in-out infinite;
+    animation: fadeBottom 22s ease-in-out 3;
+    animation-fill-mode: forwards;
 }
 
 image + image {
-  animation: fadeTop 22s ease-in-out infinite;
+  animation: fadeTop 22s ease-in-out 3;
+  animation-fill-mode: forwards;
 }
 
 @keyframes fadeTop {
